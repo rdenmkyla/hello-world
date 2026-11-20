@@ -22,3 +22,4 @@ Membuat build production (contoh: `npm run build`) dan menyimpannya sebagai arti
 ## 6. Deployment
 Melakukan deploy ke server staging atau production menggunakan SSH atau Docker.
 
+Tambahan: Laporan praktikum DevOps.
